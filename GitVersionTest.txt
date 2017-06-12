@@ -4,4 +4,5 @@ Git is a distributed version control system
 Git so easy
 Git has mutable index called stage.
 Git tracks changes of files.
-Version 0.0.5
+Git working directory.
+Version 0.0.6
