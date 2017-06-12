@@ -3,4 +3,5 @@ Git is free software
 Git is a distributed version control system
 Git so easy
 Git has mutable index called stage.
-Version 0.0.4
+Git tracks changes.
+Version 0.0.5
