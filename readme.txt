@@ -1,3 +1,7 @@
 Creating a new branch is so quick!
-& simple
+<<<<<<< HEAD
+So simple
 
+=======
+So simple
+>>>>>>> featurel
